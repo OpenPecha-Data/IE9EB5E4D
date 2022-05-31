@@ -1,0 +1,25 @@
+id: IE9EB5E4D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:54:01.576272'
+last_modified: '2022-05-31T06:54:01.576282'
+parser: null
+source_metadata:
+  title: Pewar Rinpoche
+  language: en
+  description: 'Texts by and about Pewar Rinpoche Chime Dorje (dpe war ''chi med rdo
+    rje, b. 1933), a major contributor to the recent resurgence of Buddhism in Tibet:'
+  volume:
+    f1886:
+      title: Prayer for the Long Life of Pewar Rinpoche
+      base_file: f1886.txt
+      order: 1
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
